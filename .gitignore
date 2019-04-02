@@ -1,3 +1,18 @@
+#############
+## Idea
+#############
+logs/
+target/
 .idea/
-out/
+.idea
+.repository/
 *.iml
+*.iws
+*.jrtc
+*.java
+*.class
+*.info
+*.properties
+*.jar
+.gitconfig
+docs/* .txt
